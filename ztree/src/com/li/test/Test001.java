@@ -6,6 +6,8 @@ public class Test001 {
 		
 		System.out.println("first Git program!");
 		
+		System.out.println("the second program!!");
+		
 	}
 
 }
